@@ -1,5 +1,4 @@
-# Add an API call to your CLI game that assigns a name to your player.
-
+#GET API call
 import requests
 import json 
 base_url = "http://demo.codingnomads.co:8080/tasks_api/users"
